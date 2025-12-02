@@ -1,4 +1,6 @@
 # Two Wheel Robot Balancing Project
+![Robot Simulation](assets/robot_simulation.png)
+
 
 Dự án này mô phỏng và huấn luyện một robot hai bánh tự cân bằng sử dụng Học Tăng Cường (Reinforcement Learning) với thuật toán PPO (Proximal Policy Optimization). Môi trường mô phỏng được xây dựng trên PyBullet và Gymnasium.
 
