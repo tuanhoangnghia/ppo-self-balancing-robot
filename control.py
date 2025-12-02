@@ -7,7 +7,7 @@ from two_wheel_env import TwoWheelRobotEnv
 import time
 
 # --- CÁC THAM SỐ CẤU HÌNH ---
-MODEL_PATH = "./hoanthanh/ppo_two_wheel_robot8.zip"
+MODEL_PATH = "./hoanthanh/ppo_two_wheel_robot.zip"
 URDF_PATH = "two_wheel_robot.urdf"
 # Hằng số cho tốc độ xoay
 TURNING_SPEED_CONSTANT = 4.5 
